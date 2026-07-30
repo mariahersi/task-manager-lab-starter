@@ -4,7 +4,7 @@ This is the single application you will carry through **every module** of the
 DevOps 101 workshop. Each lab adds one layer to it, until — by the Capstone1 —
 you have a full production-style pipeline.
 
-## What's  a inside
+## What's  ainside
 ```
 app/                     Node.js Express API (the app you deploy everywhere)
   server.js              /health /metrics /tasks (GET/POST/DELETE)
